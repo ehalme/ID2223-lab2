@@ -35,7 +35,7 @@ This project demonstrates how to fine-tune a pre-trained language model (`unslot
    - Use advanced scaling techniques like dynamic RoPE to improve long-sequence handling.
 
 3. **Regularization**:
-   - Apply techniques like dropout or weight decay during fine-tuning to prevent overfitting.
+   - Apply techniques like dropout during fine-tuning to prevent overfitting.
 
 4. **Quantization & Format**:
    - Experiment with mixed precision or 8-bit quantization to improve efficiency while maintaining accuracy.
