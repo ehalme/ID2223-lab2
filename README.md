@@ -66,7 +66,3 @@ This project demonstrates how to fine-tune a pre-trained language model (`unslot
 1. Clone this repository and open the notebook in Google Colab.
 2. Follow the steps to mount Google Drive and install dependencies.
 3. Execute cells to load the model and fine-tune it using LoRA.
-
----
-
-By leveraging both model-centric and data-centric approaches, this project can be extended and refined to achieve better performance tailored to specific applications.
